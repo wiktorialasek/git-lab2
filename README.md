@@ -1,1 +1,2 @@
 To jest nowa funkcjonalność
+
